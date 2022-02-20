@@ -10,12 +10,12 @@ This project is using Ruby 2.6.5
 Please sign up to this Slack Workspace https://join.slack.com/t/aldo-potloc/shared_invite/zt-13sayiyea-G5s_40P01RtWKo3sEw6pJQ
 
 ## Clone the repository
-- Create a folder called potloc
-- Clone the repo inside potloc's folder 
-- Inside potloc copy the shoe-store project
+- Create a folder called potloc 
+- Clone the repo inside potloc's folder `git clone https://github.com/liquean/slack-notifier`
+- Inside potloc copy the `shoe-store` project
 
 ## Bundle
-- On a terminal got to the backend folder and run `bundle install`
+- On a terminal got to the `slack-notifier` folder and run `bundle install`
 
 ## Database
 - Copy `example.database.yml` to `database.yml` and edit it according your needs.
