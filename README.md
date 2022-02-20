@@ -33,3 +33,8 @@ You may expect two kind of notifications
 
 ## Test
 To run existing tests run `bin/rails test`
+
+# Some ideas
+The existing project could be improved by adding couple of extra cool functionality like:
+- A REST API endpoint to get the inventory by model across the stores
+- A REST API to query the state of the inventory between a range of two dates
